@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">proochat</string>
+    <string name="facebook_app_id">1317575052031535</string>
+    <string name="fb_login_protocol_scheme">fb1317575052031535</string>
+</resources>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/sidharthchoudhary/StudioProjects/proochat/build/google_sign_in/intermediates/merged_res/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/sidharthchoudhary/.gradle/caches/transforms-3/22dc82e0ce467d4fafde2296dac3c359/transformed/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/sidharthchoudhary/StudioProjects/proochat/build/google_sign_in/intermediates/merged_res/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/sidharthchoudhary/.gradle/caches/transforms-3/22dc82e0ce467d4fafde2296dac3c359/transformed/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/sidharthchoudhary/StudioProjects/proochat/build/google_sign_in/intermediates/merged_res/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/sidharthchoudhary/.gradle/caches/transforms-3/22dc82e0ce467d4fafde2296dac3c359/transformed/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]

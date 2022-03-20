@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "266128016311",
+    "project_id": "prochat-c01a8",
+    "storage_bucket": "prochat-c01a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266128016311:android:8f2c12da9f34e4db27de32",
+        "android_client_info": {
+          "package_name": "com.sidharth.proochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266128016311-0mfkguv5f6blpv750c9301v8plkk7b65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sidharth.proochat",
+            "certificate_hash": "c1842c5caab0db67184928fb3ddd615ac7c4ec72"
+          }
+        },
+        {
+          "client_id": "266128016311-dk08idcqjigekcg5as1kj51rf8ur88u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAImoGZrwtwfr8RYJPXmCM9V_eYt6Fq4sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266128016311-dk08idcqjigekcg5as1kj51rf8ur88u4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "266128016311-av5m6cmt8jgr3judf2kk5vbvfqjf4fft.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sidharth.prochat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

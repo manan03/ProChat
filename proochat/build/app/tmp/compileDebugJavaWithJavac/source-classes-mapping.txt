@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/sidharth/proochat/MainActivity.java
+ com.sidharth.proochat.MainActivity
+com/sidharth/proochat/BuildConfig.java
+ com.sidharth.proochat.BuildConfig

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/sidharthchoudhary/StudioProjects/proochat/build/flutter_facebook_auth/intermediates/merged_res/release/animator/fragment_fade_enter.xml",
+        "source": "/Users/sidharthchoudhary/.gradle/caches/transforms-3/3d28e614e01b922128f0b0ce3abbe080/transformed/fragment-1.3.0/res/animator/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "/Users/sidharthchoudhary/StudioProjects/proochat/build/flutter_facebook_auth/intermediates/merged_res/release/animator/fragment_fade_exit.xml",
+        "source": "/Users/sidharthchoudhary/.gradle/caches/transforms-3/3d28e614e01b922128f0b0ce3abbe080/transformed/fragment-1.3.0/res/animator/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "/Users/sidharthchoudhary/StudioProjects/proochat/build/flutter_facebook_auth/intermediates/merged_res/release/animator/fragment_open_enter.xml",
+        "source": "/Users/sidharthchoudhary/.gradle/caches/transforms-3/3d28e614e01b922128f0b0ce3abbe080/transformed/fragment-1.3.0/res/animator/fragment_open_enter.xml"
+    },
+    {
+        "merged": "/Users/sidharthchoudhary/StudioProjects/proochat/build/flutter_facebook_auth/intermediates/merged_res/release/animator/fragment_close_exit.xml",
+        "source": "/Users/sidharthchoudhary/.gradle/caches/transforms-3/3d28e614e01b922128f0b0ce3abbe080/transformed/fragment-1.3.0/res/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "/Users/sidharthchoudhary/StudioProjects/proochat/build/flutter_facebook_auth/intermediates/merged_res/release/animator/fragment_close_enter.xml",
+        "source": "/Users/sidharthchoudhary/.gradle/caches/transforms-3/3d28e614e01b922128f0b0ce3abbe080/transformed/fragment-1.3.0/res/animator/fragment_close_enter.xml"
+    },
+    {
+        "merged": "/Users/sidharthchoudhary/StudioProjects/proochat/build/flutter_facebook_auth/intermediates/merged_res/release/animator/fragment_open_exit.xml",
+        "source": "/Users/sidharthchoudhary/.gradle/caches/transforms-3/3d28e614e01b922128f0b0ce3abbe080/transformed/fragment-1.3.0/res/animator/fragment_open_exit.xml"
+    }
+]

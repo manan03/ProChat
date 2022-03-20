@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">266128016311-dk08idcqjigekcg5as1kj51rf8ur88u4.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">266128016311</string>
+    <string name="google_api_key" translatable="false">AIzaSyAImoGZrwtwfr8RYJPXmCM9V_eYt6Fq4sw</string>
+    <string name="google_app_id" translatable="false">1:266128016311:android:8f2c12da9f34e4db27de32</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAImoGZrwtwfr8RYJPXmCM9V_eYt6Fq4sw</string>
+    <string name="google_storage_bucket" translatable="false">prochat-c01a8.appspot.com</string>
+    <string name="project_id" translatable="false">prochat-c01a8</string>
+</resources>

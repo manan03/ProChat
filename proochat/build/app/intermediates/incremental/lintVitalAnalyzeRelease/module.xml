@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/sidharthchoudhary/StudioProjects/proochat/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.0.3"
+    buildFolder="/Users/sidharthchoudhary/StudioProjects/proochat/build/app"
+    bootClassPath="/Users/sidharthchoudhary/Library/Android/sdk/platforms/android-30/android.jar:/Users/sidharthchoudhary/Library/Android/sdk/build-tools/30.0.2/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-30">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
